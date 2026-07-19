@@ -6,7 +6,21 @@
 </p>
 
 ---
+### 🤝 Connect With Me
 
+<p align="center">
+  <a href="mailto:manjulasrividya4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/srividya-manjula-693a312b5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/M-ai-lab" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
 ### 🚀 About Me
 
 - 🎓 B.Tech in Computer Science and Engineering (AI & ML), Vasireddy Venkatadri Institute of Technology (2023 – 2027)
@@ -73,7 +87,7 @@
 - Performed data preprocessing, feature extraction, model training, and prediction using classification algorithms.
 - Built a user-friendly web interface for real-time URL phishing detection.
 
-> 💡 *Tip: Replace the `#` links above with the actual repository URLs for each project.*
+
 
 ---
 

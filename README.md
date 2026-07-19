@@ -133,18 +133,6 @@
 
 ---
 
-### 🤝 Connect With Me
 
-<p align="center">
-  <a href="mailto:manjulasrividya4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/srividya-manjula-693a312b5/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/M-ai-lab" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
 <p align="center">⭐️ Thanks for visiting my profile — always open to collaborating on interesting AI/ML and software projects!</p>
